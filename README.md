@@ -55,7 +55,3 @@ The dataset provided by FNB includes anonymized logs of customer interactions on
 
 ## 🚀 Instructions for Local Execution
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/fnb-recommender-system.git
-   cd fnb-recommender-system
