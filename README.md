@@ -1,16 +1,16 @@
-# FNB-Data-Quest-Challenge-2025
+# ML - Personalised Recommender System
 Machine learning model to deliver personalized customer offers for FNB using contextual data.
 
-## 🚀 FNB Recommender System — DataQuest 2025
+## 🚀  Recommender System 
 ![Recommender System](MLimage.webp) 
 
 ## 🌐 Overview
-This repository contains my submission for the **FNB DataQuest 2025 Challenge**, where the objective is to build a recommender system that can deliver relevant product offers to customers based on their historical interactions, preferences, and contextual data.
+This repository contains a machine learning-based recommender system designed to deliver relevant product offers to customers based on their historical interactions, preferences, and contextual data.
 
-The system is inspired by real-world recommendation engines such as those used by Netflix and Amazon, and is built to enhance FNB’s ability to personalize customer experiences across its digital platforms.
+Inspired by real-world recommendation engines like those used by Netflix and Amazon, this system aims to enhance personalized customer experiences across digital platforms through context-aware offer ranking and prioritization.
 
 ## 🌟 Problem
-FNB aims to deliver personalized offers by ranking and recommending the most relevant products for each user. The task is to train a machine learning model that uses contextual and behavioral interaction data to recommend relevant financial products for each customer.
+Many banks aim to deliver personalized offers by ranking and recommending the most relevant products for each user. The task is to train a machine learning model that uses contextual and behavioral interaction data to recommend relevant financial products for each customer.
 
 This includes:
 - Display, click, and checkout interaction logs
@@ -48,10 +48,10 @@ The dataset provided by FNB includes anonymized logs of customer interactions on
 
 ## 📁 File Descriptions
 
-- 📓 **`FNB_Recommender_System.ipynb`**: Main notebook containing all preprocessing, modeling, and evaluation steps.
+- 📓 **`recommender.ipynb`**: Main notebook containing all preprocessing, modeling, and evaluation steps.
 - 📁 **`data/raw/dq_ps_challenge_v2.csv`**: Raw dataset used for model training.
 - 📁 **`data/processed/`**: Processed data and recommendation outputs.
 - 📘 **`README.md`**: This file — explains the project and how to run it.
 
 ## 🚀 Instructions for Local Execution
-
+- 
