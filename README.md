@@ -1,7 +1,5 @@
 # ML - Personalised Recommender System
-Machine learning model to deliver personalized customer offers using contextual data.
 
-## 🚀  Recommender System 
 ![Recommender System](MLimage.webp) 
 
 ## 🌐 Overview
