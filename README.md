@@ -1,5 +1,5 @@
 # ML - Personalised Recommender System
-Machine learning model to deliver personalized customer offers for FNB using contextual data.
+Machine learning model to deliver personalized customer offers using contextual data.
 
 ## 🚀  Recommender System 
 ![Recommender System](MLimage.webp) 
@@ -29,8 +29,8 @@ This includes:
 * **Recommendation Output**: Generate top-N recommendations for users and export to file for interpretation or presentation.
 
 ## 📚 Dataset Description
-
-The dataset provided by FNB includes anonymized logs of customer interactions on the platform. Key columns include:
+The original dataset used in this project is proprietary and cannot be shared. 
+For demonstration purposes, the code is structured to accept a CSV file with the following columns: [list example columns].
 
 | __Variable__ | __Description__ |
 |--------------|------------------|
@@ -45,13 +45,3 @@ The dataset provided by FNB includes anonymized logs of customer interactions on
 | `active_ind` | Customer activity level: Active, Semi Active, Cold Start |
 | `page` | Page context of the interaction |
 | `tod` | Time-of-day context: Early, Morning, Afternoon, Evening |
-
-## 📁 File Descriptions
-
-- 📓 **`recommender.ipynb`**: Main notebook containing all preprocessing, modeling, and evaluation steps.
-- 📁 **`data/raw/dq_ps_challenge_v2.csv`**: Raw dataset used for model training.
-- 📁 **`data/processed/`**: Processed data and recommendation outputs.
-- 📘 **`README.md`**: This file — explains the project and how to run it.
-
-## 🚀 Instructions for Local Execution
-- 
